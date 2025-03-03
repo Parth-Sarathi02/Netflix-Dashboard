@@ -1,5 +1,5 @@
 # Netflix-Dashboard
- Dashboard Interaction<a href="https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/Netflixproject_17210701821940/Dashboard1">Netflix Dashboard</a>
+ Dashboard Interaction - <a href="https://public.tableau.com/app/profile/parth.sarathi.sharma8678/viz/Netflixproject_17210701821940/Dashboard1">Netflix Dashboard</a>
 
 **Netflix Dashboard**  
 - Designed to provide a **comprehensive overview** of movies and TV shows available on Netflix.  
